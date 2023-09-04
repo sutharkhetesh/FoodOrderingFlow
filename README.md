@@ -5,4 +5,4 @@
 
 2. System Architecture
 
-![image](https://github.com/sutharkhetesh/FoodOrderingFlow/assets/91974731/09d04702-f58a-43df-83fe-164f1426e1db)
+![image](https://github.com/sutharkhetesh/FoodOrderingFlow/assets/91974731/018d850d-9b36-44f1-b1d0-fa5f036ea762)
